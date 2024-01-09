@@ -1,4 +1,13 @@
 #  instagram
+# Views
+
+<h4>Log-in Page</h4> 
+<img width="500" alt="ig-login" src="https://github.com/elizah-wilson/twitter-app/assets/145999832/5b2ce0c7-539b-4677-8c27-a91592116bb4">
+<h4>Registration Page</h4> 
+<img width="500" alt="Screenshot 2024-01-08 at 10 10 44 AM" src="https://github.com/elizah-wilson/twitter-app/assets/145999832/ec065c5d-7f58-43bb-b661-0d33a9b4fe74">
+<h4>Upload Post Page</h4> 
+<img width="500" alt="ig-createPost1" src="https://github.com/elizah-wilson/twitter-app/assets/145999832/7d8ee807-de86-4362-8093-e4cfe4343edf">
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
